@@ -28,7 +28,7 @@ public class lsnone {
     //System.out.println(p2.y);
 double rr;
 rr = distance(p1, p2);
-
+    System.out.println (rr);
   }
 
   public static double distance(Point p1, Point p2){
