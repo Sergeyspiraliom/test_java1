@@ -1,4 +1,4 @@
-package ru.stqa.pft.firstpro_test;
+package ru.stqa.pft.firstpro;
 
 
 import org.testng.Assert;

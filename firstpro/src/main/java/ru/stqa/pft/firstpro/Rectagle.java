@@ -1,4 +1,4 @@
-package ru.stqa.pft.firstpro_test;
+package ru.stqa.pft.firstpro;
 
 /**
  * Created by user on 14.04.2017.
