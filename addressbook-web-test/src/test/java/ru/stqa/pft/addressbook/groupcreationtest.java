@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 public class groupcreationtest {
+
     FirefoxDriver wd;
     
     @BeforeMethod
