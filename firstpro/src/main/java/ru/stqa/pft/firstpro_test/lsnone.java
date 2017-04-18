@@ -1,4 +1,4 @@
-package ru.stqa.pft.firstpro_main;
+package ru.stqa.pft.firstpro_test;
 
 public class lsnone {
 
